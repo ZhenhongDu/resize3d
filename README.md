@@ -1,2 +1,2 @@
 # resize3d
-3D image stack downsample using Python
+Use Python to downsample the 3D image stack
